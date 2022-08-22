@@ -1,11 +1,13 @@
 /**
  * basic hello world program
  */
+#include <stdlib.h>
+#include <stdio.h>
 
-init main(int argc, chr **argv) {
+int main(int argc, char **argv) {
 
-    print("hello my name is Gunnar Berg! \n");
-    print("Major is Computer Engineering! \n");
+    printf("hello my name is Gunnar Berg! \n");
+    printf("Major is Computer Engineering! \n");
 
     return 0;
 }
