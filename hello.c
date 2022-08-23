@@ -7,6 +7,7 @@
 int main(int argc, char **argv) {
 
     printf("hello my name is Gunnar Berg! \n");
+    printf("hello my name is team mate! \n");
     printf("Major is Computer Engineering! \n");
     printf("Minor is undecided \n");
 
